@@ -19,7 +19,7 @@ The world the game takes place on is named Avalice, hence the name
 
 ### Why are you on GitHub?
 To make the management of certain official documents like our
-[community rules](rules.md) a bit easier.
+[community rules](rules.md) and [FAQ](faq.md) a bit easier.
 
 ## License
 Unless otherwise specified, all materials in this repository are licensed

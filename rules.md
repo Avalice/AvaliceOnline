@@ -1,129 +1,78 @@
-Rules last updated 2018-01-07 11:20 UTC. Version: 1.4.0. Terminology is as defined on [this page](https://avalice.online/Terminology)
+Rules last updated 2018-01-11 04:45 UTC. Version: 2.0.0. Terminology is as defined on [this page](https://avalice.online/Terminology).
 
 These rules, and any other administrative proceedings and publications, are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Authors: Caleb Johnson and DimitriB1. Main and punishment rules are derived from OneShot community rules by Wisty Lyrr.
+Authors: Caleb Johnson and DimitriB1. Parts of some rules are inspired by the OneShot community rules by Wisty Lyrr and the New Null community rules by BucklesSupreme.
 
-# Rules
+# Server Rules
+__**You are required to give everyone mutual respect.**__ No verbal or otherwise abuse is tolerated at all. Constructive and __respectful__ criticism is okay, but don't dogpile or mention it if it might exacerbate a situation.
 
-1.  __**Use common sense!**__ Even if a rule isn't posted here, think before you post. Just because a rule isn't on the list does not mean it's okay. If you know something will get angry responses or reactions, don't do it. The obvious topics are things like like racism, sexism, etc. If you have to ask if something is okay to post, most of the time you probably shouldn't post it.
-2.  __**Staff have the final say on issues!**__ If one of the staff tells you to stop doing something, stop, as pushing it will likely make the situation worse. On top of this, minimodding is not appreciated. Do notify staff if you think something requires attention, however.
-3.  __**Treat people with respect.**__ This means no flaming, baiting, general trolling, etc. An example would be targeting or harassing a user for their likes or dislikes, character(s) or RP skills. Constructive and respectful criticism is okay, but don't dogpile or mention it if it might exacerbate a situation.
-4.  __**Don't advertise or “shill” your server, website, stream, etc.**__ Shilling is defined as posting a link or similar into a chat with zero relevancy whatsoever in an attempt to gain traffic. However, posting a link in chat when it's relevant, or the proper channel for #links_media, is fine.
-5.  __**Keep your behavior age appropriate (PG-13).**__ No NSFW content of any kind, whether visual, including cropped porn in chat or on your profile picture, or text, including your status message.
-6.  __**Keep your topics light.**__ While going on and venting about your day is acceptable, topics such as suicide, heavy depression, etc. should be kept in DMs. Additionally, bringing in issues or "drama" from other servers is not welcome. This does not mean you can derail or be an asshole to someone who might be doing any of these things. Let the mods deal with it.
-7.  __**Respect the channel topic.**__ Each channel has a purpose; please stick to it or move elsewhere. This also means to keep RP in RP channels, and OOC discussion in OOC channels, if possible.
-8.  __**Don't abuse the role pings**__ such as @everyone, @here, @Admin, @Moderator, *i.a*. If you spam messages which mention these roles, you may be banned immediately.
-9.  __**Keep excessive bot usage in #dice-n-bots.**__ The occasional command and dice roll is fine.
-10. __**Have fun!**__ That’s the entire purpose of this server and RPing in general. So… do that.
+__**Staff have the final say on issues!**__ If one of the staff tells you to stop doing something, stop, as pushing it will likely make the situation worse. On top of this, minimodding is not appreciated. Do notify a moderator if you think something requires attention, however.
+
+__**No NSFW or otherwise inappropriate content.**__ What is NSFW? NSFW stands for Not Safe For Work. This includes excessive blood and gore, overtly sexual content, unnecessary profanity, racism, sexism, and the like. Some examples are cropped porn in chat or on your profile picture, and inappropriate messages, including your status, username and nickname. Though Freedom Planet is an E10 game, __our standard is PG-13__.
+
+__**Do NOT shill/advertise**__ Discord invites, websites, or streams, or post any other type of promotion without explicit permission from a staff member. Posting a link in chat when it's relevant, or the proper channel (#links_media) is fine.
+
+__**No drama.**__ While some brief venting about your day is acceptable, topics such as suicide, heavy depression, etc. should be kept in DMs. Bringing in issues or drama from other servers is also not acceptable. This does not mean you can derail or be disrespectful to someone who might be doing any of these things. Let the moderators deal with it.
+
+__**Respect channel topics.**__ Each channel has a purpose; please stick to it or move elsewhere. This also means to keep RP in RP channels, and extended OOC discussion in OOC channels.
+
+__**Keep disruptive bot usage in #dice-n-bots.**__ The occasional command and dice roll is fine.
+
+__**Don't abuse the role pings**__ such as @everyone, @here, @Admin, @Moderator, and so on. If you spam messages which mention these roles, you'll be hit with a warning at the very least.
+
+__**Our staff hold the right to enforce our personal RP Code of Conduct.**__ We won't do this unless we deem it absolutely necessary, but it's for the enjoyment and happiness of everyone in the server at large. No one is exempt, not even server staff.
+
+__**Staff reserve the right to inform you if have done something that is considered inappropriate.**__ If anything is determined to be detrimental to the server and our members, we reserve the right to take actions to correct it, but will not do so without reason. If you have any questions or concerns, feel free to contact a staff member by DMing them.
+
+__**We reserve the right to use other ban lists**__ as reference for who we allow in and around this community. If you were banned for several reasons from other servers, we reserve the right to remove you here as well.
+
+__**Have fun!**__ That's the entire purpose of this server and RPing in general. So… do that.
+
+We have two independent means of dealing with disruptive members:
+
+__**Timeouts**__ prevent you from speaking in all channels except #basement. This allows the staff to have a one-on-one conversation with you, and for appropriate punishment to be given. __Being put in Timeout is not always for punishment;__ it may also be used just to tell you to calm down. Being uncooperative, though, will only make things worse for you.
+
+__**Warnings:**__ If a moderator observes you breaking a rule, causing trouble in general, or receive complaints about your conduct from several people, you will receive a warning. Warning #1 will be a slap on the wrist, but is not an empty warning. Warning #2 will result in you being put on suspension and unable to play. Warning #3 will result in a ban, which may or may not become permanent depending on how individuals handle it. Each tier of warning lasts two weeks.
+
+__**Ban appeals**__ are handled on a case by case basis, and are submitted by contacting a staff member. When a user is unbanned on appeal, they start with a warning which replaces any they might have had before. For an appeal to be considered, the user must have:
+1. Remain banned for at least two weeks, and
+2. Not have been banned for raiding, spamming, or posting NSFW, and
+3. Not have used an alt to evade the ban, and
+4. Not have previously been unbanned on appeal.
 
 # RP Code of Conduct
+__**Ask, Observe, Investigate.**__ When people describe their character or describe anything in general, always assume there is more to find, to explore, and learn. Don't judge a book by its cover.
 
-__**Keep your actions reasonable and faithful to the world or scene.**__ “Freeform” doesn’t mean absolute freedom, and actions have consequences. Auto-hits, closed actions, powergaming or unnaturally forcing an action or result onto PCs or NPCs, even your own if implausible, isn’t allowed. More examples include: gaining powers that your character cannot or should not have the ability to learn, inserting yourself into FP1 story events your character has no reason to be a part of (rewriting history) and making canon characters inexplicably have good relationships with their own character for no reason.
+__**Give others time to respond.**__ We will not force turn-based RPing here, but please, give others time to formulate a proper response And be polite—you wouldn't interrupt someone in the middle of their sentence.
 
-__**Respect others’ scenes and characters.**__ Joining scenes set in non-public areas (i.e. not in the park, university, or other public area) without any good reason or permission isn’t permitted. Physical contact should be consensual or agreed to beforehand.
+__**Put effort into your roleplaying!**__ You should want to describe what's going with your character, what they are thinking, how they are reacting to things, what they feel about situations, and so on. Simply typing "s/he looked out the window." not only sounds boring, it also makes it seem like you don't care enough to write more. This not only limits your potential as an RPer, but comes off as not wanting to put in the effort to RP with the other person. Laziness for the sake of laziness won't be tolerated, so we request you put at least some minimum effort into your posts to ensure that they are legible and can be followed by a reader. Any user that is determined to be intentionally using sloppy spelling, grammar, or sentence structure will be asked by the staff to at least amend their posts. If said user refuses to put the minimum effort in, we reserve the right to remove them from the RP role.
 
-__**Keep it clean.**__ NSFW contact, or anything that might be confused with it at a glance, isn’t permitted under any circumstances. This goes for both player characters and NPCs.
+__**Be original.**__ A direct copy/paste of events or characters from an existing franchise, but starring you or others, isn't cool. Taking inspiration from other things is fine, but don't rip them off.
 
-__**Godmodding, powergaming and metagaming are forbidden unless explicitly allowed.**__ ‘Nuff said.
+__**Be relatively realistic.**__ If you are shot at, you can't just not acknowledge it. If you do something wrong, your character will be held responsible. In fact, you will be held responsible for your actions—everything you do is likely to have consequences, whether good or bad. For example, f your character is training or studying something, they will naturally get better at it over time—the same way it works in real life. Examples of what not to do include: gaining powers that your character cannot or should not have the ability to learn, inserting yourself into FP1 story events your character has no reason to be a part of (rewriting history), and making canon characters inexplicably have good relationships with their own character for no reason.
 
-__**Be original.**__ A direct copy-paste of events or characters from an existing franchise, but starring you or others, isn’t cool. Taking inspiration from other things is fine, but don’t rip them off.
+__**Godmodding, powergaming and metagaming**__ are forbidden unless explicitly allowed. Self-explanatory.
 
-__**Fanon isn’t everything.**__ Even if your fanon is accepted by the majority of players, don't expect GMs to include your fanon in their games.
+__**Stay true to the setting.**__ We understand that the setting of Freedom Planet isn't as well-defined as others, and that headcanon confusion is inevitable. Even the server staff doesn't have much to go on besides what GT has made public. Rest assured, staff and/or your GM will do their best to keep things canon where possible, and reasonably true to the setting where guesswork is involved.
 
-__**Character death:**__ If your character dies, you will be required to reroll a new character for the campaign it was in. Unless, of course, your party pulls off a miracle to bring them back somehow. You can still use the dead character in different campaigns or in freeform, since death doesn’t cross timelines.
+__**Don't be afraid to ask.**__ We understand it can be a daunting task to ask or any of the staff or tutors for help or advice. But we would rather you ask us than be too scared to RP if you are unsure about something. In fact, we would rather you ask one of us than not RP at all, as this RP server is for fun above all, and we want to help you improve. We wouldn't be here if that wasn't the case.
 
-__**Character Approval:**__ before you can use a character, it must be approved. If it is your first character, the Player role will not be assigned to you until it is approved. For freeform, post their bio and information in #character_bios using the format posted in #getting_started and wait for two Referees or higher approve it. If your character needs balance or other adjustments, more fleshing out, etc., you will be asked to make the necessary changes. If you want to join an adventure campaign, ask the GM(s) for that campaign. Once approved, you should make a wiki page for your character and, if you don’t have one, yourself. Also see: <http://avalice.online/Character_Creation>
+__**Communication is key.**__ If you are not satisfied with the way someone handled a situation, TELL THEM. Nine times out of ten, the person didn't think it would upset you, or just wasn't aware that it would. So please talk to people, but be respectful. Talk to them the way you would want others to talk to you. Most of the time, if you voice your grievances, people will understand and work it out with you.
 
-# Freeform Code of Conduct
+# FFRP Code of Conduct
+__**Character Approval:**__ before you can use a character in FFRP, it must be approved. Post their bio and information in #character_bios and wait for two staff members to approve. Some guidelines for what to post are in #server_faqs. If your character needs balance or other adjustments, more fleshing out, etc., you will be asked to make the necessary changes. Once approved, you should make a wiki page for your character and, if you don't have one, for yourself as a player.
 
-__**What is Freeform?**__ In Freeform, there is no GM (unless you designate one). Without one, the RP is guided entirely by the players. If you don't feel comfortable being your own director, then perhaps freeform isn't for you. Because you don't have to just go along with what's happening; In fact, doing that usually makes it boring.
+__**Keep the focus on Avalice.**__ Although extraterrestrials aren't prohibited, they shouldn't define your experience here. Players are required to have at least one native character before they can submit any alien characters, and can have no more aliens than they have natives. Furthermore, a player's native characters must remain active in order to play their extraterrestrial ones.
 
-__**Respect the Referees.**__ Their job is to supervise your RP and ensure things don’t get out of hand.
+__**This is your own story!**__ You are not required to do anything you think your character wouldn't do. That being said, feel free to make your own storylines and character development arcs and see who ends up becoming a part of it. Some of the best scenes and arcs are ones that are not planned, and having more characters join not only adds more variety, it also makes the experience unique and fun for everyone.
 
-__**If the plot gets too complicated, it should probably be a campaign.**__ If you are trying to play a story with several people that has an uncertain outcome (*e.g.* engaging in a fight with an organization) which is largely dependent on the vision of one person, or if it has a long backlog which is necessary to know about in order to engage with the story, it’s advisable to make a campaign out of it. Freeform isn’t well suited to such stories.
+__**Respect others' scenes and characters.**__ Joining scenes set in non-public areas (i.e. not in a park, university, or other public area) without any good reason or permission isn't permitted. Physical confrontations should be clearly consensual or agreed to beforehand OOC.
 
-__**Keep your freeform accessible.**__ When roleplaying in a freeform, keep your actions and responses open-ended enough that anyone can engage with them, especially newcomers to the freeform in question. It is fine to talk with specific people in context, but don't be too closed off in your interactions. If anything of significance happened in a scene, before you wrap it up, designate someone to write a summary and post it in #rp-news.
+__**Limit potentially off-putting conduct.**__ Anything traumatizing to witness requires permission from a moderator. This includes, but is not limited to: torture, self-harm, death, and dismemberment. If in doubt, ask.
 
-__**Respect the timeline.**__ This server has its own “canon” formed over the last year or so comprising contributions from most, if not all, of its player members. If you start a spinoff or isolated scene, mark it as such to avoid confusion. Keep in mind that if you have a requirement to do this for an extended plot arc, you might want to make it into a full campaign. Characters from formal campaigns are okay to join freeform, but they must meet the other rules. Traits or abilities which depend on another timeline require alternate justification to match the one you want to use them in.
+__**Ask permission before doing something that has a large impact!**__ Before taking actions that could affect not only your RP Partner but a group of people as a whole, make sure you have permission first. Before you take an action that can affect more than yourself, you make sure it's ok with anyone who will be directly affected by it. This includes destruction of property, both public or private, and things that might get you in trouble or reported on the news.
 
-__**You’re not in charge of the world.**__ Actions which involve kidnapping, possessing, hurting, killing, or other harm to other characters must be agreed to beforehand by everyone involved, or they’ll be struck from the timeline. And remember that actions have consequences. It’s very unlikely that you’ll get away with property damage, impersonation, or any other crimes, even in freeform. If you are extremely uncomfortable with something you did, you can ask staff for a retcon, but it might not be granted.
+__**Stay consistent with server canon.**__ This server has its own "canon" formed over the last year or so comprising contributions from most, if not all, of its player members. __In most cases, characters' stories don't interfere with each other, and important events are published #ffrp-news.__ If you start a non-canon scene, mark it as such to avoid confusion, or use a non-canon RP channel. Keep in mind that if you have a requirement to do this for an extended plot arc, you might want to make it into a full campaign.
 
-__**Freeform isn't your playground.**__ Using the server for your own wish fulfillment instead of contributing is highly frowned upon. If you want to explore a character concept, the best way to do so is to get involved. You don't need a community to write your own fiction about your character.
-
-# Guidelines
-
-__**Nickname convention:**__ The preferred format is Name1, Name 2 [username/alias]. If you play as more characters than will fit in the character limit, swap in the names of the characters you’re using at the current time and, optionally, append (+n) where n is the number of additional characters you have. Example: Wade, Seth, Abby (+3) [Parzival].
-
-__**IC message formatting convention:**__ Dialogue goes in quotes: “like this.” If you need to speak out of character, use parenthesis/strikethrough on each end, (like this) or \~\~~~like this~~\~\~. The most common method of differentiating speech and action is to put the action \**in italics*\*. Quotes in italics are used for when a character is thinking to itself. \*\***Bold**\*\* can be used for yelling or pointing something out. Telepathy or text messages usually go in \``code blocks`\`.
-
-__**Keep character growth within their original concept.**__ A character is never done changing, because that's just how character development works. What many people don't understand is that when people say that, they're referring to skills and personalities. Characters continue to grow and change in the same way people grow and change, through experiences, decisions, and hard work, but they can’t change their base concepts any more than actual people can. When you tack on new abilities, skills and properties to characters that don't have any place in the original concept of the character, it comes across as lazily done wish fulfillment—because it almost always is. So don't do that. Instead, make a new character and implement your desired changes properly, complete with a backstory and new personality.
-
-__**Don’t miss scheduled sessions without notice.**__ A GM can set their own rules regarding attendance, and those are what will be enforced. Here are some example rules we have come up for GMs to use:
-- If you cannot make it to a scheduled session, give the GM at least a day's notice.
-- If you do have to miss a session on shorter notice, give the group a heads up so the GM has some time to make any necessary adjustments.
-- If you request a time or time restrictions on when the group can convene, ensure that you can make that time.
-  - If you miss one of these special sessions without warning, this counts as two breaches.
-- A player who breaches these guidelines three times may be asked to leave the campaign.
-
-__**Overpowered characters:**__ unreasonable levels of power such as Chaos Control, time manipulation, unlimited magical power, etc. are highly discouraged. You might be asked to nerf or limit anything that is seen as overpowered by staff.
-
-__**Wiki Usage:**__ to keep track of everything in a way that everyone can explore and contribute to, Avalice Online uses Wikia. Characters, campaigns and non-canonical places should have a page to be considered an official part of the server. You may use characters and start campaigns before a page is fully complete, but you should at least have a page containing an overview. Several templates and infobox types are provided for your convenience.
-
-# Bot Usage
-
-- **Dice:** the !dice command supports many operators, which are listed [here](https://github.com/borntyping/python-dice/blob/master/README.rst#notation).
-- **Scenes:** !srp, !erp, !prp, !rrp are for marking when you start, end, pause and resume a scene.
-  - !srs and !ers are variants which serve the same role but are targeted at campaigns.
-- **Choice:** !choose thing_1, thing_2, thing_3
-
-# Roles and Channels
-
-**Role functions:**
-- **Admin:** Server management staff. Don’t ping unless a mod can’t handle what you need.
-- **Moderator:** Supervises all IC and OOC activity. Ping them if any issue needs attention.
-- **Referee:** Supervises freeform RP and steps in when necessary. Ping if you need help in FFRP.
-- **Game Master:** Someone who has GMed or is currently GMing a structured campaign.
-- **Player, Spectator:** Players can post in RP channels, spectators can only watch.
-- **Writer:** Fanfiction or other published authors. Can post in #txt-draft and #txt-finished_works.
-
-**OOC channel functions:**
-- **#rules, #announcements, #getting_started:** Self-explanatory.
-- **#rp_news:** Summaries about what’s happening in your campaign or in freeform go here.
-- **#rp_discussion:** Any RP-related discussion should take place here.
-- **#art, #links_media:** For original art and fanart and links to cool stuff, respectively.
-- **#memes:** Your local memeposting outlet.
-- **#moments:** Post screenshots or just talk about memorable scenes here.
-- **#character_bios:** Discussion about characters and approval requests go here.
-- **#approved_characters:** Approved characters will get posted here with a mention of their player.
-- **#txt-draft:** Drafts of and discussion about cutscenes, backstory, fanfiction, etc go here.
-- **#txt-finished_works:** Writers can post their completed works here.
-- **#masters_dungeon:** a GM channel for talking about GM things. Only GMs and staff can see it.
-- **#mod-log:** A log of moderation events such as mutes, bans, kicks, etc.
-- **#basement:** If you’re in trouble, you might be brought here to talk about it.
-
-**IC channel functions:**
-- **#rp-crystal_cafe:** A safe and friendly café/bar chain found throughout all three Kingdoms. Usually used for introductions and casual conversation. No combat allowed.
-- **#rp-studio-<n>:** Generic RP channels. Anyone can start a scene in one when it’s not in use.
-- **#rp-freedomlite:** For games using the FreedomLite20 ruleset.
-- **#rp-noncanon-1:** Specifically for any RP that's independent of AO canon.
-- **#rp-au-fter_hours:** A whimsical "after hours" setting, or "longue" for the actors playing the characters. Usually ends up breaching continuity and/or the fourth wall.
-- **#rp-tabletop_oneshots:** For quick oneshot tabletop campaign sessions.
-
-**Campaign channels** (see individual channel topics for details):
-- **#rp-satpm_fp**, **#rp-satpm_fp-ic**
-- **#rp-fp_pre_sequel**, **#rp-fp_pre_sequel-ic**
-
-# Punishment
-
-**Timeouts** are handed out when people break the rules, and prevent you from speaking in all channels except #basement. This allows the staff to have a one-on-one conversation with you, and for appropriate punishment to be given. Being put in Timeout is not always for punishment; it may also be used just to tell you to calm down. Being uncooperative can also make things worse, and leaving/rejoining while in timeout will both a) not work and b) make things worse for you.
-
-**Warnings:** Avalice Online uses a single Warning system. Warnings expire after 30 days. If you receive another warning while the first is still active, you will be banned. If you are put in timeout while on warning, the discussion will likely revolve around a ban. To help with reminding you of being on warning, this role comes with complimentary bright yellow paint.
-
-**Ban appeals** are handled on a case by case basis, and are submitted by contacting a staff member. For an appeal to be considered, the user must have:
-  1) Remain banned for at least two weeks.
-  2) Not have been banned for raiding, spamming, or posting NSFW.
-  3) Not have used an alt to evade the ban.
-  4) Not have previously been unbanned on appeal.
-
-When a user is unbanned on appeal, they start with a warning which replaces any they might have had before.
+__**Freeform isn't only your playground.**__ Using the server for your own wish fulfillment instead of engaging with others is highly frowned upon. If you want to explore a character concept, the best way to do so is to interact with others! You don't need a community to write your own fiction about your character.
