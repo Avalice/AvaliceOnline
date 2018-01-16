@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ## Introduction
-Last updated 2018-01-16 01:10 UTC.
+Last updated 2018-01-16 06:14 UTC.
 
 If the embeds below don't display correctly, the master document is [here](https://github.com/avalice/AvaliceOnline/blob/master/faq.md).
 
@@ -55,7 +55,7 @@ Another thing: sometimes a character can be written with an interesting and uniq
 
 For example: Carol Tea’s Core Motivations might be "rather a traitor than a murderer", the belief that upholding morals is more important than completing a task or preserving your social standing; "I just want to hang out with my best friends", representing her persistently playful and not always serious nature; and "teenage gang biker" for her goals: become rich, become famous, and collect even more sweet rides. A code of conduct, something that describes her visible personality, and her future ambitions.
 
-More suggestions can be found [here](http://avalice.wikia.com/wiki/).
+More suggestions can be found [here](http://avalice.wikia.com/wiki/Character_Creation).
 
 ## How do I keep up with everything?
 __To keep track of important things in a way that everyone can explore and contribute to, we use the [Avalice Online Wiki](http://avalice.wikia.com/).__ Characters, campaigns, and important non-canonical places or events should all be documented there in order to be considered an official part of the server. Currently, all users are required to log in to Wikia before contributing. This means no anonymous edits.
