@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ## Introduction
-Last updated 2018-04-29 09:37 UTC.
+Last updated 2018-04-29 11:05 UTC.
 
 If the embeds below don't display correctly, the master document is [here](https://github.com/avalice/AvaliceOnline/blob/master/faq.md).
 
@@ -62,7 +62,7 @@ More suggestions can be found [here](http://avalice.wikia.com/wiki/Character_Cre
 ### Core Motivations
 Sometimes a character can be written with an interesting and unique concept, but still fall flat when used. Why? For any character to be believable, they need to have more than just mannerisms, habits, hobbies, or skills. They should also have ideals, ambitions, ways of thinking, and long term goals that all work together to drive them and make them who they are. These are sometimes called Core Motivations, and people can have any number of them. A good rule is that at least three should be in play at any given time.
 
-For example: Carol Tea’s Core Motivations might be "rather a traitor than a murderer", the belief that upholding morals is more important than completing a task or preserving social standing; "I just want to hang out with my best friends", representing her persistently playful and not always serious nature; and "teenage gang biker" for her goals: become rich, become famous, and collect even more sweet rides. A code of conduct, something that describes her personality, and her future ambitions.
+For example: Carol Tea's Core Motivations might be "rather a traitor than a murderer", the belief that upholding morals is more important than completing a task or preserving social standing; "I just want to hang out with my best friends", representing her persistently playful and not always serious nature; and "teenage gang biker" for her goals: become rich, become famous, and collect even more sweet rides. A code of conduct, something that describes her personality, and her future ambitions.
 
 ## How do I keep up with everything?
 __To keep track of important things in a way that everyone can explore and contribute to, we use the [Avalice Online Wiki](http://avalice.wikia.com/).__ Characters, campaigns, and important non-canonical places or events should all be documented there in order to be considered an official part of the server. Currently, all users are required to log in to Wikia before contributing. This means no anonymous edits.
@@ -82,24 +82,29 @@ It is also permissible to create a **redirect** page for an alias. Example [here
 ### Creating a Character Page
 Follow the instructions on [this page](http://avalice.wikia.com/wiki/Character_Creation).
 
+## Can I modify or retire my existing characters?
+Yes, but modifications needs to be re-approved, as well as make some sense. Changes which may have far-reaching implications in the past will need to be carefully considered, as a retcon of this scale needs either a very good reason that staff agree to, or consent from everyone who would be affected, on top of being re-approved.
+
+You don't need approval to retire characters, so long as they're not in the middle of something involving other players. Leaving loose ends by abruptly pulling out of a plot is inconsiderate, so please don't do that. If you must, find another player to give your character(s) to. You can also write their endings however you want—not all characters have to be killed in order to be retired.
+
 ## What is Freeform?
 __In Freeform, there is no GM.__ In other words, the RP is guided entirely by the players. If you don't feel comfortable being your own director, then perhaps freeform isn't for you. Because you don't have to just go along with what's happening; In fact, doing that usually makes it boring.
 
 ## How should I grow my character?
 __Through experiences, decisions, and hard work, just like in real life.__ These can be part of scenes, or done offscreen, within reason. A character is never done changing, because that's just how character development works. What many people don't understand is that when people say that, they're referring to skills and personalities.
 
-Characters continue to grow and change in the same way people grow and change, but they can’t change their base concepts any more than actual people can. So don't tack on new abilities, skills and properties that don't have any place in the original concept of the character. It comes across as lazily done wish fulfillment—because it almost always is. Instead, make a new character and implement your desired changes properly, complete with a fitting backstory and new personality.
+Characters continue to grow and change in the same way people grow and change, but they can't change their base concepts any more than actual people can. So don't tack on new abilities, skills and properties that don't have any place in the original concept of the character. It comes across as lazily done wish fulfillment—because it almost always is. Instead, make a new character and implement your desired changes properly, complete with a fitting backstory and new personality.
 
 ## What's considered "overpowered"?
 __Overpowered characters have unreasonably powerful abilities__ such as Chaos Control, time manipulation, unlimited magical power, Jumper-style universal teleportation, etc., and are generally prohibited. You might be asked to nerf or limit anything that is seen as overpowered by staff.
 
 ## What's the nickname convention?
-__The preferred format is `Character1, Character2 [username/alias]`.__ If you play as more characters than will fit in the character limit (32), swap in the names of the characters you’re using at the current time and, optionally, append (+n) where n is the number of additional characters you have. Example: `Wade, Seth, Abby (+3) [Parzival]`.
+__The preferred format is `Character1, Character2 [username/alias]`.__ If you play as more characters than will fit in the character limit (32), swap in the names of the characters you're using at the current time and, optionally, append (+n) where n is the number of additional characters you have. Example: `Wade, Seth, Abby (+3) [Parzival]`.
 
 ## What about RP style conventions?
 __Write however you want, but please stick to one style for the duration of a scene.__ If you're not sure, or don't have a favorite style, the following is commonly used and easy to understand:
 
-Dialogue goes in quotes: “like this.” If you need to speak out of character, use parenthesis on each end, (like this).
+Dialogue goes in quotes: "like this." If you need to speak out of character, use parenthesis on each end, (like this).
 
 To specify an action, put it \**in italics*\*. Quotes in italics are used for when a character is thinking to themself.
 
@@ -112,7 +117,7 @@ code block.
 
 ## What do the roles mean?
 ### Staff roles:
-- **@Admin:** Server management staff. Don’t ping them unless a mod can’t handle what you need.
+- **@Admin:** Server management staff. Don't ping them unless a mod can't handle what you need.
 - **@Moderator:** Supervises all IC and OOC activity. Ping them if any issue needs attention.
 
 ### Member roles:
@@ -159,18 +164,18 @@ Active time roles show when you're *usually* online in YOUR time zone, and are a
 - **#txt-finished_works:** Writers can post their completed works here.
 
 ### OOC channels:
-- **#rp_news:** Summaries about what’s happening in your campaign or in freeform go here.
+- **#rp_news:** Summaries about what's happening in your campaign or in freeform go here.
 - **#character_bios:** Discussion about characters and approval requests go here.
 - **#approved_characters:** Approved characters will get posted here with a mention of their player.
 - **#tutor_chat:** For questions about character design, writing, or RPing in general.
 - **#mod-log:** A log of moderation events such as mutes, bans, kicks, etc.
-- **#basement:** If you’re being disruptive, you might be brought here to talk about it.
+- **#basement:** If you're being disruptive, you might be brought here to talk about it.
 
 ### IC channels:
 - **#ffrp_news:** Post anything that would appear on the news anywhere on Avalice in here.
 - **#rp-crystal_cafe:** A safe, friendly and neutral café/bar in Shang Tu (but close to the other two kingdoms); used as the FFRP "hub" here. Open to all citizens, but __no combat allowed.__
 - **#rp-cafe_bulletin_board:** Post quests and quest-like things here! Cleaned up on occasion.
-- **#rp-studio-[N]:** Generic RP channels. Anyone can start a scene in one when it’s not in use.
+- **#rp-studio-[N]:** Generic RP channels. Anyone can start a scene in one when it's not in use.
 - **#rp-au-fter_hours:** A whimsical "after-hours longue" for the "actors" playing the characters. Usually ends up breaching continuity and/or the fourth wall.
 - **#rp-noncanon-1:** Reserved for any RP that's independent of AO canon.
 
@@ -205,14 +210,53 @@ Established campaigns each have their own channel category and self-explanatory 
 - **Active times:** `!selfrole <time> / !selfrole remove <time>`
   - `!selfrole list` to list
 
+## How do I start/run compelling scenes?
+Try to describe a scene people can freely explore without being overwhelmed with options. Examples of good elements are: things to watch unfold, situations to become directly involved in, or even schemes to provoke. Leave things open-ended, but not completely directionless.
+
+Remember: most fun comes from having choices to explore. That can be anything from "look for the fusebox", to "light a candle and continue on", to "go home and take a nap", as long as there's a chance for a character to be themselves.
+
+## How do I respond to/continue a scene?
+### Guidelines:
+The code of conduct has some suggestions:
+- Ask, observe, and investigate;
+- Give others a chance to react before continuing;
+- React to the situation as your character would. If you need more info, ask.
+
+Present vs. future tense writing: either is fine, as long as events make sense and are in order. Readability is more important than a rigid writing style.
+
+### Keeping things moving
+To prevent the need to roleplay every time instant, it's fair to say *"if x happens, I would do y, otherwise z."* Just keep it realistic and don't use this for metagaming.
+
+E.g. *"He holds the filled cup to out Eric, stepping around to sit at the table if his silent offer is taken. If that fails, he'll just go ahead and leave it nearby."*
+
+### Deciding what to do next
+People talk a lot unless there's an efficient plan in action. Sometimes talking something through in-character can inspire new options.
+- Try not to make a scene purely dialogue, unless it's meant to be a conversation.
+- Non-verbal cues and odd tells can be good ways to spark off more hesitant topics.
+- Above all, try to keep things lively, so long as it doesn't get in the way of storytelling.
+
+It may also help to step back and consider your character's goals:
+- What did they tag along to accomplish or gain?
+- Are there any opportunities to work towards their non-immediate goals in the present scenario?
+- Consider their core motivations, and how they can fulfill them in the present.
+- If your character doesn't have a clear purpose in the scene, how can they naturally shift things to a new topic?
+
+### Contributing new elements
+Unless there's a clear storyteller and throwing a curveball would derail their narrative, you can add anything to to scene to make it interesting. Don't use this to turn your character into the "protagonist" or unfairly benefit them. Also, take responsibility for fleshing out your contributions.
+- NPC interactions
+- Sudden events
+- Background details that hint at more to discover
+
+Remember that so long as a scene doesn't need to serve a specific narrative, every player has an equal part in moving the scene along. Each character is equally important to the story, and giving attention to a character stuck in the background often makes things more interesting.
+
 ## How should I handle combat?
 ### Narrative style!
-If you know your character’s abilities well, you don’t need dice or a system to act out a fight. Just describe what happens in as much detail as possible, and let the situation work itself out like any other.
+If you know your character's abilities well, you don't need dice or a system to act out a fight. Just describe what happens in as much detail as possible, and let the situation work itself out like any other. If you're worried about things getting out of hand (or if they already have), flag down a staff member or tutor to act as a referee or arbitrate an outcome.
 
 ### FATE Accelerated
 Links:
 - [Character Creation](https://fate-srd.com/fate-accelerated/who-do-you-want-be#how-do-i-make-the-character)
-- [How To Do Stuff](https://fate-srd.com/fate-accelerated/how-do-stuff-outcomes-actions-and-approaches) (Pangu’s `!dice` command supports Fudge dice with `dF`)
+- [How To Do Stuff](https://fate-srd.com/fate-accelerated/how-do-stuff-outcomes-actions-and-approaches) (Pangu's `!dice` command supports Fudge dice with `dF`)
 - [Challenges/Contests/Conflicts](https://fate-srd.com/fate-accelerated/challenges-contests-and-conflicts), [Damage/Stress/Consequences](https://fate-srd.com/fate-accelerated/ouch-damage-stress-and-consequences)
 
 ## What other resources are available?
