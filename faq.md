@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ## Introduction
-Last updated 2018-01-16 06:14 UTC.
+Last updated 2018-04-29 09:37 UTC.
 
 If the embeds below don't display correctly, the master document is [here](https://github.com/avalice/AvaliceOnline/blob/master/faq.md).
 
@@ -21,26 +21,28 @@ After the transfer, new rules were written, more staff were selected from applic
 Currently, Avalice Online is the only known freeform and multi-campaign Freedom Planet roleplay community. We also have many of the same standards as, and share some staff with, the official GalaxyTrail community server.
 
 ## What is the world like?
-(WIP)
+What we have is a bit too much to fit here in the FAQs. Check [this document](https://docs.google.com/document/d/1uLCYA-n-Vjn1ktLteRUrZ4ApMSpwNTF8zA-f1Kp6Ovs/edit) for the official FP canon. Any important AO-specific changes or additions to the official canon are listed on [this wiki page](https://avalice.wikia.com/wiki/Canon).
 
 ## How do I get started here?
 __For FFRP__, as stated in #rules, post your character's bio and information in #character_bios and wait for two staff members to approve. Note that characters with more detail and which show more thought put into them are more likely to be approved. Your post should contain the following information, or a link to a document with it. Fields marked with an asterisk are required.
 ```
 Character name*: (Your character's full name and how you want them be called)
-Race/Species*: (Which anthro animal or alien species they are)
+Race/Species*: (Which anthro animal/species they are)
 Gender*: 
 Element*: 
 Character age / Date of Birth: 
 Place of Birth: 
-Planet/Universe of Origin*: (If not native to Avalice)
+Planet/Universe of Origin*: (if not Avalice native, see below)
 Height / Weight: 
-Character Appearance*: (Required, unless you have a pic handy.)
+Character Appearance*: (required, unless you have a picture handy)
 Character Strengths and Weaknesses: (Keep it balanced)
 Special Skills and Abilities*: (Doctor, ace pilot, etc; or if they have any abilities, which level?)
 Bio / Personality: 
 Backstory: 
 Other Info: (Anything that doesn't fit into the previous fields)
 ```
+
+As per the FFRP Code of Conduct in #rules, players are required to have a native Avalician character before they can submit any alien or naturalized alien characters, and can have no more aliens than they have natives.
 
 __Campaigns__ are a different matter. To join one, first confirm that the campaign is open for new party members. If it is, work with the GM(s) to write or port your new or existing character to the system being used.
 
@@ -51,11 +53,16 @@ Everyone has strengths and weaknesses, and most of us have more weaknesses than 
 
 Remember: Your character is, in many ways, just one performer in an ongoing symphony Even the most talented among us can't become true jacks of all trades without decades of practice, so either narrow your focus and find one thing your character truly loves to do; or don't, and play with them having numerous interests but nothing in particular they excel in.
 
-Another thing: sometimes a character can be written with an interesting and unique concept, but still fall flat when used. Why? For any character to be believable they need to have more than just mannerisms, habits, hobbies, or skills. They should also have ideals, ambitions, ways of thinking, and long term goals that all work together to drive them and make them who they are. These are sometimes called Core Motivations, and people can have any number of them. For a character to feel believable, a good rule is that they should have at least three in play at any given time.
+Regarding character attachment and self-inserts: a good rule of thumb is that unless you're okay with the possibility of losing a character, you shouldn't use them. __In the venerable words of Punchy: "don't self-insert unless you're content to kill yourself off."__
 
-For example: Carol Tea’s Core Motivations might be "rather a traitor than a murderer", the belief that upholding morals is more important than completing a task or preserving your social standing; "I just want to hang out with my best friends", representing her persistently playful and not always serious nature; and "teenage gang biker" for her goals: become rich, become famous, and collect even more sweet rides. A code of conduct, something that describes her visible personality, and her future ambitions.
+A great resource for fleshing out your character's appearance, mannerisms and personality is [QuietBadger](https://quietbadger.deviantart.com/)'s [list of assorted OC questions](https://docs.google.com/spreadsheets/d/1gQtV9xMyasAH_jvhEPF9fmaXgWCY1-5SybVidBWVtEU/edit). To use it, simply make a copy and start filling in answers!
 
 More suggestions can be found [here](http://avalice.wikia.com/wiki/Character_Creation).
+
+### Core Motivations
+Sometimes a character can be written with an interesting and unique concept, but still fall flat when used. Why? For any character to be believable, they need to have more than just mannerisms, habits, hobbies, or skills. They should also have ideals, ambitions, ways of thinking, and long term goals that all work together to drive them and make them who they are. These are sometimes called Core Motivations, and people can have any number of them. A good rule is that at least three should be in play at any given time.
+
+For example: Carol Tea’s Core Motivations might be "rather a traitor than a murderer", the belief that upholding morals is more important than completing a task or preserving social standing; "I just want to hang out with my best friends", representing her persistently playful and not always serious nature; and "teenage gang biker" for her goals: become rich, become famous, and collect even more sweet rides. A code of conduct, something that describes her personality, and her future ambitions.
 
 ## How do I keep up with everything?
 __To keep track of important things in a way that everyone can explore and contribute to, we use the [Avalice Online Wiki](http://avalice.wikia.com/).__ Characters, campaigns, and important non-canonical places or events should all be documented there in order to be considered an official part of the server. Currently, all users are required to log in to Wikia before contributing. This means no anonymous edits.
@@ -79,10 +86,12 @@ Follow the instructions on [this page](http://avalice.wikia.com/wiki/Character_C
 __In Freeform, there is no GM.__ In other words, the RP is guided entirely by the players. If you don't feel comfortable being your own director, then perhaps freeform isn't for you. Because you don't have to just go along with what's happening; In fact, doing that usually makes it boring.
 
 ## How should I grow my character?
-__Through experiences, decisions, and hard work, just like in real life.__ These can be part of scenes, or done offscreen, within reason. A character is never done changing, because that's just how character development works. What many people don't understand is that when people say that, they're referring to skills and personalities. Characters continue to grow and change in the same way people grow and change, but they can’t change their base concepts any more than actual people can. So don't tack on new abilities, skills and properties that don't have any place in the original concept of the character, it comes across as lazily done wish fulfillment—because it almost always is. So don't do that. Instead, make a new character and implement your desired changes properly, complete with a backstory and new personality.
+__Through experiences, decisions, and hard work, just like in real life.__ These can be part of scenes, or done offscreen, within reason. A character is never done changing, because that's just how character development works. What many people don't understand is that when people say that, they're referring to skills and personalities.
+
+Characters continue to grow and change in the same way people grow and change, but they can’t change their base concepts any more than actual people can. So don't tack on new abilities, skills and properties that don't have any place in the original concept of the character. It comes across as lazily done wish fulfillment—because it almost always is. Instead, make a new character and implement your desired changes properly, complete with a fitting backstory and new personality.
 
 ## What's considered "overpowered"?
-__Overpowered characters have unreasonably powerful abilities__ such as Chaos Control, time manipulation, unlimited magical power, Jumper-style universal teleportation, etc., are generally prohibited. You might be asked to nerf or limit anything that is seen as overpowered by staff.
+__Overpowered characters have unreasonably powerful abilities__ such as Chaos Control, time manipulation, unlimited magical power, Jumper-style universal teleportation, etc., and are generally prohibited. You might be asked to nerf or limit anything that is seen as overpowered by staff.
 
 ## What's the nickname convention?
 __The preferred format is `Character1, Character2 [username/alias]`.__ If you play as more characters than will fit in the character limit (32), swap in the names of the characters you’re using at the current time and, optionally, append (+n) where n is the number of additional characters you have. Example: `Wade, Seth, Abby (+3) [Parzival]`.
@@ -120,6 +129,19 @@ code block.
 ### Campaign roles:
 These roles are assigned when a player joins an established campaign, and grant the ability to post in that campaign's IC channel.
 
+### Timezone and active roles
+Eventually, the bot might use this information to list users who might be available either immediately or at a specified time.
+
+Timezone roles can be listed with `!xorole list timezone` and selected with `!xorole <role>`. If you're in a timezone that isn't in the list yet, let me know and I'll add it.
+
+Active time roles show when you're *usually* online in YOUR time zone, and are as follows:
+- **@Night AM:** Midnight to 6AM
+- **@Morning:** 6AM to noon
+- **@Noon:** Noon to 3PM
+- **@Afternoon:** 3PM to 6PM
+- **@Evening:** 6PM to 9PM
+- **@Night PM:** 9PM to midnight
+
 ## What is each channel for?
 ### Main and Discussion channels:
 - **#rules, #server_faqs, #announcements, #dice-n-bots:** Self-explanatory.
@@ -145,11 +167,12 @@ These roles are assigned when a player joins an established campaign, and grant 
 - **#basement:** If you’re being disruptive, you might be brought here to talk about it.
 
 ### IC channels:
-- **#ffrp_news:** Post news which would appear on Tri Kingdom News, as well as any other news outlet, in here.
-- **#rp-crystal_cafe:** A safe and friendly café/bar chain found throughout all three Kingdoms. Usually used for introductions and casual conversation. __No combat allowed.__
+- **#ffrp_news:** Post anything that would appear on the news anywhere on Avalice in here.
+- **#rp-crystal_cafe:** A safe, friendly and neutral café/bar in Shang Tu (but close to the other two kingdoms); used as the FFRP "hub" here. Open to all citizens, but __no combat allowed.__
+- **#rp-cafe_bulletin_board:** Post quests and quest-like things here! Cleaned up on occasion.
 - **#rp-studio-[N]:** Generic RP channels. Anyone can start a scene in one when it’s not in use.
-- **#rp-au-fter_hours:** A whimsical "after hours longue" for the actors playing the characters. Usually ends up breaching continuity and/or the fourth wall.
-- **#rp-noncanon-1:** Specifically for any RP that's independent of AO canon.
+- **#rp-au-fter_hours:** A whimsical "after-hours longue" for the "actors" playing the characters. Usually ends up breaching continuity and/or the fourth wall.
+- **#rp-noncanon-1:** Reserved for any RP that's independent of AO canon.
 
 ### Tabletop channels:
 These channels are targeted towards structured RP with a GM.
@@ -177,20 +200,33 @@ Established campaigns each have their own channel category and self-explanatory 
   - `!rpfor <TIME>` to add and then remove later. Example: `!rpfor 2 hours`.
 - **Writer:** `!writer` / `!selfrole remove Writer`
 - **Spectator:** `!spectate` / `!selfrole remove Spectator`
+- **Timezone:** `!xorole <TZ>` / `!xorole remove <TZ>`
+  - `!xorole list timezone` to list
+- **Active times:** `!selfrole <time> / !selfrole remove <time>`
+  - `!selfrole list` to list
 
 ## How should I handle combat?
-(WIP)
+### Narrative style!
+If you know your character’s abilities well, you don’t need dice or a system to act out a fight. Just describe what happens in as much detail as possible, and let the situation work itself out like any other.
+
+### FATE Accelerated
+Links:
+- [Character Creation](https://fate-srd.com/fate-accelerated/who-do-you-want-be#how-do-i-make-the-character)
+- [How To Do Stuff](https://fate-srd.com/fate-accelerated/how-do-stuff-outcomes-actions-and-approaches) (Pangu’s `!dice` command supports Fudge dice with `dF`)
+- [Challenges/Contests/Conflicts](https://fate-srd.com/fate-accelerated/challenges-contests-and-conflicts), [Damage/Stress/Consequences](https://fate-srd.com/fate-accelerated/ouch-damage-stress-and-consequences)
 
 ## What other resources are available?
 It's dangerous to go alone, take these:
 - [Random scenario generator](http://creativichee.tumblr.com/miniscenario), for when you don't know what scenario to RP
 - The [Avalice Archives](http://freedomplanet.wikia.com/), a wiki for the canonical Freedom Planet universe
-- The [official GalaxyTrail community Discord server](https://discord.gg/galaxytrail)
-- Some character makers, for quick and easy visualization of characters:
+- The [official, verified GalaxyTrail community Discord server](https://discord.gg/galaxytrail)
+- Our [DeviantArt group](https://avaliceonline.deviantart.com/) for character art, stories and more!
+- [Springhole's tips for Writing, Roleplaying, & Worldbuilding](http://springhole.net/writing/index.html)
+- Character makers, for quick and easy visualization of characters:
   - [Oob's character maker](https://inkbunny.net/submissionview.php?id=1047384)
   - [Male Furry Dollmaker v1.1](http://gen8hedgehog.deviantart.com/art/Male-Furry-Dollmaker-v1-1-64778353)
   - [Female Furry Dollmaker v1.2](http://gen8hedgehog.deviantart.com/art/Female-Furry-Dollmaker-v1-2-64778589)
-- Some session scheduling tools:
+- Scheduling tools:
   - [NeedToMeet](http://www.needtomeet.com): No signup, and everyone can see each other's slots. No timezones.
   - [When2Meet](https://www.when2meet.com): Per-event signup to change your availability. No timezones.
   - [WhenIsGood](http://whenisgood.net): Slots by hours and shows when more are free. Supports timezones.
