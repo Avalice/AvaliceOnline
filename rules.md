@@ -1,7 +1,7 @@
 # Avalice Online Rules
 
 ## Introduction
-These rules were last updated 2018-01-16 06:03 UTC. Version: 2.1.1.
+These rules were last updated 2018-01-16 06:03 UTC. Version: 2.1.2.
 
 If the embeds below don't display correctly, the master document is [here](https://github.com/avalice/AvaliceOnline/blob/master/rules.md).
 
@@ -127,7 +127,7 @@ Before you can use a character in FFRP, it must be approved. Post their bio and 
 Once approved, you should make a wiki page for your character and, if you don't have one, for yourself as a player.
 
 ### 2. Keep the focus on Avalice
-Although extraterrestrials aren't prohibited, they shouldn't define your experience here. Players are required to have at least one native character before they can submit any alien characters, and can have no more aliens than they have natives. Furthermore, a player's native characters must remain active in order to play their extraterrestrial ones.
+Although extraterrestrials aren't prohibited, they shouldn't define your experience here. Players are required to have at least one native character before they can submit any alien or naturalized alien characters, and can have no more aliens than they have natives. Furthermore, a player's native characters must remain active in order to play their extraterrestrial ones.
 
 ### 3. This is your own story!
 You are not required to do anything you think your character wouldn't do. That being said, feel free to make your own storylines and character development arcs and see who ends up becoming a part of it. Some of the best scenes and arcs are ones that are not planned, and having more characters join not only adds more variety, it also makes the experience unique and fun for everyone.
