@@ -1,7 +1,7 @@
 # Avalice Online Rules
 
 ## Introduction
-These rules were last updated 2018-01-16 06:03 UTC. Version: 2.1.2.
+These rules were last updated 2018-01-16 06:03 UTC. Version: 2.1.3.
 
 If the embeds below don't display correctly, the master document is [here](https://github.com/avalice/AvaliceOnline/blob/master/rules.md).
 
@@ -12,7 +12,7 @@ See [this page](https://avalice.online/Terminology) for definitions of the terms
 These rules, and any other administrative proceedings and publications, are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ### Credits
-Primary rules authors: Caleb Johnson (@calebj#7377) and Dimitri Barronmore (@DimitriB1#7677).
+Primary rules authors: Caleb Johnson (@calebj#0001) and Dimitri Barronmore (@DimitriB1#7677).
 
 Parts of some rules derived from the [OneShot](https://discord.gg/oneshot) community rules by Wisty Lyrr and the [New Null](https://discord.gg/M239h9u) community rules by Varis.
 
@@ -112,7 +112,9 @@ Examples of what not to do include: gaining powers that your character cannot or
 These are forbidden unless explicitly allowed. See our wiki's [terminology page](http://avalice.wikia.com/wiki/Terminology) for more information on what these are.
 
 ### 7. Stay true to the setting
-We understand that the setting of Freedom Planet isn't as well-defined as others, and that headcanon confusion is inevitable. Even the server staff doesn't have much to go on besides what GT has made public. Rest assured, staff and/or your GM will do their best to keep things canon where possible, and reasonably true to the setting where guesswork is involved.
+We understand that the setting of Freedom Planet isn't as well-defined as others, and that headcanon confusion is inevitable. Even the server staff don't have much to go on besides [what GT has made public](https://docs.google.com/document/d/1uLCYA-n-Vjn1ktLteRUrZ4ApMSpwNTF8zA-f1Kp6Ovs/edit), though we have made some [additional changes](http://avalice.wikia.com/wiki/Canon) on top of it in the interest of better roleplay.
+
+Rest assured, staff and/or your GM will do their best to keep things canon where possible, and reasonably true to the setting where guesswork is involved.
 
 ### 8. Don't be afraid to ask
 We know that it can be daunting to ask or any of the staff or tutors for help or advice. But we would rather you ask us than be too scared to RP if you are unsure about something. In fact, we would rather you ask one of us than not RP at all, as this RP server is for fun above all, and we want to help you improve. We wouldn't be here if that wasn't the case.
@@ -139,12 +141,12 @@ Joining scenes set in non-public areas (i.e. not in a park, university, or other
 Anything traumatizing to witness requires permission from a moderator. This includes, but is not limited to: torture, self-harm, death, and dismemberment. If in doubt, ask.
 
 ### 6. Ask permission before doing something that has a large impact!
-Before taking actions that could affect not only your RP Partner but a group of people as a whole, make sure you have permission first. Before you take an action that can affect more than yourself, you make sure it's ok with anyone who will be directly affected by it. This includes destruction of property, both public or private, and things that might get you in trouble or reported on the news.
+Before taking actions that could affect not only your RP partner but a group of people as a whole, make sure you have permission first. Before you take an action that can affect more than yourself, you make sure it's ok with anyone who will be directly affected by it. This includes destruction of property, both public or private, and things that might get you in trouble or reported on the news.
 
 ### 7. Stay consistent with server canon
 This server has its own "canon" formed over the last year or so comprising contributions from most, if not all, of its player members. __In most cases, characters' stories don't interfere with each other, and important events are posted in #ffrp_news.__ If you start a non-canon scene, mark it as such to avoid confusion, or use a non-canon RP channel.
 
 Keep in mind that if you have a requirement to do this for an extended plot arc, you might want to make it into a full campaign.
 
-### 8. Freeform isn't only your playground
+### 8. Freeform isn't your exclusive playground
 Using the server for your own wish fulfillment instead of engaging with others is highly frowned upon. If you want to explore a character concept, the best way to do so is to interact with others! You don't need a community to write your own fiction about your character.
