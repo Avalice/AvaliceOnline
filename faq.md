@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ## Introduction
-Last updated 2018-04-29 11:05 UTC.
+Last updated 2018-05-24 04:58 UTC.
 
 If the embeds below don't display correctly, the master document is [here](https://github.com/avalice/AvaliceOnline/blob/master/faq.md).
 
@@ -24,12 +24,14 @@ Currently, Avalice Online is the only known freeform and multi-campaign Freedom 
 What we have is a bit too much to fit here in the FAQs. Check [this document](https://docs.google.com/document/d/1uLCYA-n-Vjn1ktLteRUrZ4ApMSpwNTF8zA-f1Kp6Ovs/edit) for the official FP canon. Any important AO-specific changes or additions to the official canon are listed on [this wiki page](https://avalice.wikia.com/wiki/Canon).
 
 ## How do I get started here?
-__For FFRP__, as stated in #rules, post your character's bio and information in #character_bios and wait for two staff members to approve. Note that characters with more detail and which show more thought put into them are more likely to be approved. Your post should contain the following information, or a link to a document with it. Fields marked with an asterisk are required.
+__For FFRP__, as stated in #rules, post your character's bio and information in #character_bios and wait for two staff members to approve. Note that characters with more detail and which show more thought put into them are more likely to be approved. Your post should contain the following information, or a link to a document with it.
+
+Fields marked with an asterisk are required.
 ```
 Character name*: (Your character's full name and how you want them be called)
 Race/Species*: (Which anthro animal/species they are)
 Gender*: 
-Element*: 
+Element*: (This is somewhat related to personality, see below)
 Character age / Date of Birth: 
 Place of Birth: 
 Planet/Universe of Origin*: (if not Avalice native, see below)
@@ -37,6 +39,7 @@ Height / Weight:
 Character Appearance*: (required, unless you have a picture handy)
 Character Strengths and Weaknesses: (Keep it balanced)
 Special Skills and Abilities*: (Doctor, ace pilot, etc; or if they have any abilities, which level?)
+Core Motivations: (What motivates them? What do they truly care about? See below.)
 Bio / Personality: 
 Backstory: 
 Other Info: (Anything that doesn't fit into the previous fields)
@@ -49,15 +52,18 @@ __Campaigns__ are a different matter. To join one, first confirm that the campai
 __Spectating__ is another option. To mark yourself as someone who's just here to watch things as they happen and not play just yet, go to #dice-n-bots and type `!spectate`. This will prevent you from being kicked due to inactivity.
 
 ## What should I keep in mind when making a new character?
-Everyone has strengths and weaknesses, and most of us have more weaknesses than strengths. Those we think of as great figures are no different, but they learned their weaknesses, slowly overcame them, and developed their strengths, all through hard work. It's the same whatever world you're in, and no matter what level of technology or magic is present: being a professional adult is hard work.
+First, review BOTH the [FP Canon](https://docs.google.com/document/d/1uLCYA-n-Vjn1ktLteRUrZ4ApMSpwNTF8zA-f1Kp6Ovs/edit) and [AO Canon](http://avalice.wikia.com/wiki/Canon). These will tell you what you need to know about birthplaces, available races, elements, and more.
 
-Remember: Your character is, in many ways, just one performer in an ongoing symphony Even the most talented among us can't become true jacks of all trades without decades of practice, so either narrow your focus and find one thing your character truly loves to do; or don't, and play with them having numerous interests but nothing in particular they excel in.
+A great resource for fleshing out your character's appearance, mannerisms and personality is [QuietBadger](https://quietbadger.deviantart.com/)'s [list of assorted OC questions](https://docs.google.com/spreadsheets/d/1gQtV9xMyasAH_jvhEPF9fmaXgWCY1-5SybVidBWVtEU/edit). To use it, simply make a copy and start filling in answers.
 
 Regarding character attachment and self-inserts: a good rule of thumb is that unless you're okay with the possibility of losing a character, you shouldn't use them. __In the venerable words of Punchy: "don't self-insert unless you're content to kill yourself off."__
 
-A great resource for fleshing out your character's appearance, mannerisms and personality is [QuietBadger](https://quietbadger.deviantart.com/)'s [list of assorted OC questions](https://docs.google.com/spreadsheets/d/1gQtV9xMyasAH_jvhEPF9fmaXgWCY1-5SybVidBWVtEU/edit). To use it, simply make a copy and start filling in answers!
-
 More suggestions can be found [here](http://avalice.wikia.com/wiki/Character_Creation).
+
+### Strengths and Weaknesses
+Everyone has strengths and weaknesses, and most of us have more weaknesses than strengths. Those we think of as great figures are no different, but they learned their weaknesses, slowly overcame them, and developed their strengths, all through hard work. It's the same whatever world you're in, and no matter what level of technology or magic is present: being a professional adult is hard work.
+
+Remember: Your character is, in many ways, just one performer in an ongoing symphony Even the most talented among us can't become true jacks of all trades without decades of practice, so either narrow your focus and find one thing your character truly loves to do; or don't, and play with them having numerous interests but nothing in particular they excel in.
 
 ### Core Motivations
 Sometimes a character can be written with an interesting and unique concept, but still fall flat when used. Why? For any character to be believable, they need to have more than just mannerisms, habits, hobbies, or skills. They should also have ideals, ambitions, ways of thinking, and long term goals that all work together to drive them and make them who they are. These are sometimes called Core Motivations, and people can have any number of them. A good rule is that at least three should be in play at any given time.

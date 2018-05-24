@@ -1,7 +1,7 @@
 # Avalice Online Rules
 
 ## Introduction
-These rules were last updated 2018-01-16 06:03 UTC. Version: 2.1.3.
+These rules were last updated 2018-05-24 04:58 UTC. Version: 2.1.4.
 
 If the embeds below don't display correctly, the master document is [here](https://github.com/avalice/AvaliceOnline/blob/master/rules.md).
 
@@ -124,7 +124,9 @@ If you are not satisfied with the way someone handled a situation, TELL THEM. Ni
 
 ## FFRP Code of Conduct
 ### 1. Character Approval
-Before you can use a character in FFRP, it must be approved. Post their bio and information in #character_bios and wait for two staff members to approve. Some guidelines for what to post are in #server_faqs. If your character needs balance or other adjustments, more fleshing out, etc., you will be asked to make the necessary changes.
+Before you can use a character in FFRP, it must be approved. Post their bio and information in #character_bios and wait for approval. Approval requires two @Staff votes, and two @Tutor votes count as one Staff vote.
+
+Guidelines for what to post are in #server_faqs. If your character needs balance or other adjustments, more fleshing out, etc., you will be asked to make the necessary changes.
 
 Once approved, you should make a wiki page for your character and, if you don't have one, for yourself as a player.
 
