@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ## Introduction
-Last updated 2018-05-24 04:58 UTC.
+Last updated 2018-07-11 03:00 UTC.
 
 If the embeds below don't display correctly, the master document is [here](https://github.com/avalice/AvaliceOnline/blob/master/faq.md).
 
@@ -129,21 +129,21 @@ code block.
 ### Member roles:
 - **@Advisor:** These members contribute and discuss ideas with the server staff, but are not moderators.
 - **@Game Master:** Someone who has GMed or is currently GMing a structured campaign.
-- **@Tutor:** Experienced, friendly players who you can count on for advice.
-- **@Player:** Active players can post in IC and RP discussion channels. Opt-in sub-roles:
-  - **@FFRP Live Subscriber:** players interested in being notified of major FFRP group events.
-  - **@RP Ready:** Players who are ready to RP at the present moment!
+- **@Player:** Members who roleplay or are interested in doing so. Sub-roles:
+  - **@FFRP Live:** Players interested in being notified of FFRP group events.
+  - **@RP Ready:** Players who are ready to RP right now!
   - **@Student:** Players who would like extra attention and feedback from Tutors.
-- **@Writer:** Fanfiction or other published authors. Can post in #txt-draft and #txt-finished_works.
 - **@Spectator:** Members who intend to "just watch" for the foreseeable future.
+- **@Tutor:** Experienced, friendly players who you can count on for advice.
+- **@Writer:** Fanfiction or other authors. Can post in #txt-draft and #txt-finished_works.
 
-### Campaign roles:
-These roles are assigned when a player joins an established campaign, and grant the ability to post in that campaign's IC channel.
+### FFRP and Campaign roles:
+The @FFRP role is given to members who have at least one approved character.
+
+Campaign roles (such as @SatPM) are assigned when a player joins an established campaign, and grant the ability to post in that campaign's IC channel.
 
 ### Timezone and active roles
-Eventually, the bot might use this information to list users who might be available either immediately or at a specified time.
-
-Timezone roles can be listed with `!xorole list timezone` and selected with `!xorole <role>`. If you're in a timezone that isn't in the list yet, let me know and I'll add it.
+Timezone roles can be listed with `!xorole list timezone` and selected with `!xorole <role>`. If you're in a timezone that isn't in the list yet, let me know and I'll add it. These roles are useful when coordinating a time for something, since the offset is part of the role name.
 
 Active time roles show when you're *usually* online in YOUR time zone, and are as follows:
 - **@Night AM:** Midnight to 6AM
@@ -152,6 +152,8 @@ Active time roles show when you're *usually* online in YOUR time zone, and are a
 - **@Afternoon:** 3PM to 6PM
 - **@Evening:** 6PM to 9PM
 - **@Night PM:** 9PM to midnight
+
+Eventually, the bot might use these roles to identify users who might be available either immediately or at a specified time.
 
 ## What is each channel for?
 ### Main and Discussion channels:
@@ -171,9 +173,10 @@ Active time roles show when you're *usually* online in YOUR time zone, and are a
 
 ### OOC channels:
 - **#rp_news:** Summaries about what's happening in your campaign or in freeform go here.
+- **#rp_ideas_lfg:** A place to discuss and develop new RP concepts, adventure ideas, or scenes.
 - **#character_bios:** Discussion about characters and approval requests go here.
 - **#approved_characters:** Approved characters will get posted here with a mention of their player.
-- **#tutor_chat:** For questions about character design, writing, or RPing in general.
+- **#tutor_chat:** For questions and discussions about character design, writing, or RP in general.
 - **#mod-log:** A log of moderation events such as mutes, bans, kicks, etc.
 - **#basement:** If you're being disruptive, you might be brought here to talk about it.
 
@@ -182,15 +185,15 @@ Active time roles show when you're *usually* online in YOUR time zone, and are a
 - **#rp-crystal_cafe:** A safe, friendly and neutral café/bar in Shang Tu (but close to the other two kingdoms); used as the FFRP "hub" here. Open to all citizens, but __no combat allowed.__
 - **#rp-cafe_bulletin_board:** Post quests and quest-like things here! Cleaned up on occasion.
 - **#rp-studio-[N]:** Generic RP channels. Anyone can start a scene in one when it's not in use.
-- **#rp-au-fter_hours:** A whimsical "after-hours longue" for the "actors" playing the characters. Usually ends up breaching continuity and/or the fourth wall.
+- **#rp-scarves_hideout:** For roleplaying scenes focused on members of The Red Scarves.
 - **#rp-noncanon-1:** Reserved for any RP that's independent of AO canon.
+- **#rp-au-fter_hours:** A whimsical "after-hours longue" for the "actors" playing the characters. Usually ends up breaching continuity and/or the fourth wall.
 
 ### Tabletop channels:
 These channels are targeted towards structured RP with a GM.
 
 - **#rp-tabletop-[N]:** For long-running tabletop sessions that don't necessarily belong to a campaign yet.
 - **#rp-tabletop_oneshots:** For quick oneshot tabletop campaign sessions.
-- **#rp-freedomlite:** For games using the FreedomLite20 ruleset.
 
 ### Campaign channels:
 Established campaigns each have their own channel category and self-explanatory title. See their descriptions for more information.
@@ -206,15 +209,18 @@ Established campaigns each have their own channel category and self-explanatory 
 - `!srs` and `!ers` are variants of start/end which but are targeted at campaigns.
 
 ### Self-assignable roles (add/remove):
-- **FFRP Live subscriber:** `!subscribe` / `!unsubscribe`
-- **RP Ready:** `!rp` / `!norp`
+- **Player / Spectator:** `!spectate` / `!player`
+  - `!xorole remove <role>` to remove
+- **FFRP Live:** `!subscribe` to toggle
+- **Student:** `!student` to toggle
+- **RP Ready:** `!ready` to toggle
   - `!rpfor <TIME>` to add and then remove later. Example: `!rpfor 2 hours`.
-- **Writer:** `!writer` / `!selfrole remove Writer`
-- **Spectator:** `!spectate` / `!selfrole remove Spectator`
-- **Timezone:** `!xorole <TZ>` / `!xorole remove <TZ>`
-  - `!xorole list timezone` to list
+  - `!cancelrpfor` to cancel the timer.
 - **Active times:** `!selfrole <time> / !selfrole remove <time>`
-  - `!selfrole list` to list
+  - `!selfrole list` to see all options
+- **Timezone:** `!xorole <TZ>` / `!xorole remove <TZ>`
+  - `!xorole list timezone` to see all options
+- **Writer:** `!writer` to toggle
 
 ## How do I start/run compelling scenes?
 Try to describe a scene people can freely explore without being overwhelmed with options. Examples of good elements are: things to watch unfold, situations to become directly involved in, or even schemes to provoke. Leave things open-ended, but not completely directionless.
