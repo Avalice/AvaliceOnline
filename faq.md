@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ## Introduction
-Last updated 2018-07-11 03:00 UTC.
+Last updated 2018-08-04 22:20 UTC.
 
 If the embeds below don't display correctly, the master document is [here](https://github.com/avalice/AvaliceOnline/blob/master/faq.md).
 
@@ -130,6 +130,7 @@ code block.
 - **@Advisor:** These members contribute and discuss ideas with the server staff, but are not moderators.
 - **@Game Master:** Someone who has GMed or is currently GMing a structured campaign.
 - **@Player:** Members who roleplay or are interested in doing so. Sub-roles:
+  - **@Active:** Players who have been in any scene in the past month.
   - **@FFRP Live:** Players interested in being notified of FFRP group events.
   - **@RP Ready:** Players who are ready to RP right now!
   - **@Student:** Players who would like extra attention and feedback from Tutors.
